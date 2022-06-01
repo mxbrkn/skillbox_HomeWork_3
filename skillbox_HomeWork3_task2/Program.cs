@@ -1,18 +1,20 @@
-﻿Console.WriteLine("Добро пожаловать в Black Jack!!! \n \n Введите количество ваших карт:");
+﻿
+
+Console.WriteLine("Добро пожаловать в Black Jack!!! \n \n Введите количество ваших карт:");
 int Number = int.Parse(Console.ReadLine());
 
 int Sum = 0;
 int CardNumber = 0;
 int intvalue;
 
-while (CardNumber > Number-1)
+while (CardNumber < Number)
 {
     Console.WriteLine("Введите номинал вашей следующей карты");
-    string strvalue = Console.ReadLine();
+    string strvalue = Console.ReadLine().ToUpper();
 
     switch (strvalue)
     {
-        case "1": 
+        case "1":
             intvalue = 1;
             break;
         case "2":
@@ -56,7 +58,7 @@ while (CardNumber > Number-1)
             break;
 
         default:
-            intvalue = 0;   
+            intvalue = 0;
             break;
     }
 
