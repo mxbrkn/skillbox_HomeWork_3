@@ -3,14 +3,14 @@
 Console.WriteLine("Добро пожаловать в Black Jack!!! \n \n Введите количество ваших карт:");
 int Number = int.Parse(Console.ReadLine());
 
-int Sum = 0;
-int CardNumber = 0;
-int intvalue;
+int Sum = 0;        // Конечная сумма
+int CardNumber = 0; // Счётчик карт
+int intvalue;       // Числовое значение карты
 
 while (CardNumber < Number)
 {
     Console.WriteLine("Введите номинал вашей следующей карты");
-    string strvalue = Console.ReadLine().ToUpper();
+    string strvalue = Console.ReadLine().ToUpper(); // Преобразуем в заглавную, так как могут ввести в любом регистре
 
     switch (strvalue)
     {
@@ -64,10 +64,6 @@ while (CardNumber < Number)
 
     Sum += intvalue;
     CardNumber++;
-
-
-
-
 
 }
 
