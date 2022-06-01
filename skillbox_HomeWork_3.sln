@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skillbox_HomeWork_3_task1", "skillbox_HomeWork_3\skillbox_HomeWork_3_task1.csproj", "{3F79FCA8-BDEB-45F5-8447-5B8F6DE04187}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "skillbox_HomeWork3_task2", "skillbox_HomeWork3_task2\skillbox_HomeWork3_task2.csproj", "{3BDEE0BA-F7A6-47B2-B45E-1D076184A407}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skillbox_HomeWork3_task2", "skillbox_HomeWork3_task2\skillbox_HomeWork3_task2.csproj", "{3BDEE0BA-F7A6-47B2-B45E-1D076184A407}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "skillbox_HomeWork3_task1", "skillbox_HomeWork3_task1\skillbox_HomeWork3_task1.csproj", "{2C2382C6-B4E8-4AA6-873C-6F6A754462C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skillbox_HomeWork3_task3", "skillbox_HomeWork_3_task3\skillbox_HomeWork3_task3.csproj", "{8E7DAF13-9461-4A33-9A1A-E9EE637EB83B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "skillbox_HomeWork3_task3", "skillbox_HomeWork3_task3\skillbox_HomeWork3_task3.csproj", "{F6A040C6-1A5B-4724-91C9-85E77E525026}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3F79FCA8-BDEB-45F5-8447-5B8F6DE04187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3F79FCA8-BDEB-45F5-8447-5B8F6DE04187}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3F79FCA8-BDEB-45F5-8447-5B8F6DE04187}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3F79FCA8-BDEB-45F5-8447-5B8F6DE04187}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3BDEE0BA-F7A6-47B2-B45E-1D076184A407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3BDEE0BA-F7A6-47B2-B45E-1D076184A407}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BDEE0BA-F7A6-47B2-B45E-1D076184A407}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BDEE0BA-F7A6-47B2-B45E-1D076184A407}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8E7DAF13-9461-4A33-9A1A-E9EE637EB83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8E7DAF13-9461-4A33-9A1A-E9EE637EB83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8E7DAF13-9461-4A33-9A1A-E9EE637EB83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8E7DAF13-9461-4A33-9A1A-E9EE637EB83B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2382C6-B4E8-4AA6-873C-6F6A754462C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2382C6-B4E8-4AA6-873C-6F6A754462C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2382C6-B4E8-4AA6-873C-6F6A754462C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2382C6-B4E8-4AA6-873C-6F6A754462C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A040C6-1A5B-4724-91C9-85E77E525026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A040C6-1A5B-4724-91C9-85E77E525026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A040C6-1A5B-4724-91C9-85E77E525026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A040C6-1A5B-4724-91C9-85E77E525026}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
