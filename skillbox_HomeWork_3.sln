@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skillbox_HomeWork_3_task1",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skillbox_HomeWork3_task2", "skillbox_HomeWork3_task2\skillbox_HomeWork3_task2.csproj", "{3BDEE0BA-F7A6-47B2-B45E-1D076184A407}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skillbox_HomeWork3_task3", "skillbox_HomeWork_3_task3\skillbox_HomeWork3_task3.csproj", "{8E7DAF13-9461-4A33-9A1A-E9EE637EB83B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3BDEE0BA-F7A6-47B2-B45E-1D076184A407}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BDEE0BA-F7A6-47B2-B45E-1D076184A407}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BDEE0BA-F7A6-47B2-B45E-1D076184A407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7DAF13-9461-4A33-9A1A-E9EE637EB83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7DAF13-9461-4A33-9A1A-E9EE637EB83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7DAF13-9461-4A33-9A1A-E9EE637EB83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7DAF13-9461-4A33-9A1A-E9EE637EB83B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
